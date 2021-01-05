@@ -1,0 +1,13 @@
+.inputoptions{
+    display: flex;
+    align-items: center;
+    color: gray;
+    padding: 10px;
+    padding-top: 6px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.inputoptions>h4{
+    margin-left: 5px;
+}
