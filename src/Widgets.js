@@ -28,12 +28,10 @@ function Widgets() {
                 <InfoIcon/>
             </div>
 
-            {newsArticle('Garvit is back in form' , 'recent project made by him is linekdin clone')}
+            {newsArticle('Garvit created this' , 'recent project made by him is linekdin clone')}
             {newsArticle('Corona update' , ' Two new vaccines in india covavaxin and covsheild')}
             {newsArticle('Farmers protest' , 'Farmers sitting at the border refused to step back')}
-            {newsArticle('Garvit is back in form' , 'recent project made by him is linekdin clone')}
-            {newsArticle('Garvit is back in form' , 'recent project made by him is linekdin clone')}
-            {newsArticle('Garvit is back in form' , 'recent project made by him is linekdin clone')}
+            
         </div>
     )
 }
